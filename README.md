@@ -10,7 +10,7 @@
   4. Визуализация закономерностей
 
 ### **Стек технологий**
-  1. Google Colab
+  1. Jupyter Notebook
   2. Yandex Datalens
   3. Pyhton
   4. Pandas
