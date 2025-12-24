@@ -18,4 +18,5 @@
   6. Matplotlib
   7. Seaborn
 
+#### **[Google Colab](https://colab.research.google.com/github/w1xent/DSBAI_project/blob/main/Project_WFT.ipynb)**
 #### **[Дашборд Яндекс Даталенс](https://datalens.yandex/4pxhx5uegj2wo)**
